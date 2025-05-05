@@ -1,9 +1,3 @@
 <fable>
-    <page1/>
-  <page2 />
-  asdjaslkdjaslkdj
-  alksdjlaksjdlaskjd
-    lsakjdlaskjd
-    alksdjalskdjlaskjd
-    alksdjlaskdjlaksjd
+    <page1 text="hello" x="500" y="500"/>
 </fable>
